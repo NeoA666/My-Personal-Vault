@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "2a574ea40751847e",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0f9211e05a6ac28",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83949a5c6437bf0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "这是一个测试文件.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "这是一个测试文件"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "984585284389d5fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b9592ac0e726af2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc4828d631651748",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "aecb5ea34963f157",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "f50ed523bf94d602",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "545b484a9943a5db",
+    "type": "split",
+    "children": [
+      {
+        "id": "676c21e2a44a3744",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a5c5c9873359de8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "这是一个测试文件.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "这是一个测试文件 的反向链接列表"
+            }
+          },
+          {
+            "id": "d0005ff5cdb67874",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "这是一个测试文件.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "这是一个测试文件 的出链列表"
+            }
+          },
+          {
+            "id": "c0c56767dca4106c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "55d4eed20eb29c64",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "这是一个测试文件.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "这是一个测试文件 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false
+    }
+  },
+  "active": "83949a5c6437bf0a",
+  "lastOpenFiles": [
+    "这是一个测试文件.md",
+    "这是一个测试文件.md",
+    "测试文件夹"
+  ]
+}
