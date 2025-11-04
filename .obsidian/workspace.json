@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0dbddc277643eaa8",
+        "id": "94cce5041c8f6192",
         "type": "tabs",
         "children": [
           {
-            "id": "53181d5e1a9a7ad4",
+            "id": "322b9d6d3cf3c32a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -169,8 +169,11 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "53181d5e1a9a7ad4",
+  "active": "322b9d6d3cf3c32a",
   "lastOpenFiles": [
+    "Rust/Rust权威指南/2_Rust通用编程概念.md",
+    "Rust/问题百解/静态类型语言的特点与优缺点.md",
+    "Rust/问题百解",
     "操作系统/操作系统导论/3_插叙：进程API.md",
     "操作系统/操作系统导论/4_机制：受限直接执行.md",
     "操作系统/操作系统导论/5_进程调度介绍.md",
@@ -181,7 +184,6 @@
     "操作系统/问题百解/现代操作系统采用按需读取方式.md",
     "操作系统/问题百解/寄存器的分类与作用分析.md",
     "操作系统/问题百解/操作系统接口与系统调用的区别.md",
-    "Rust/Rust权威指南/2_Rust通用编程概念.md",
     "Rust/Rust权威指南/1_Rust入门.md",
     "Markdown 精简速查表.md",
     "Rust/Rust权威指南/Rust语言特性.md",
