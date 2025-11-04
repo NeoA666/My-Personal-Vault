@@ -1,1 +1,6 @@
-{}
+{
+  "cssTheme": "Minimal",
+  "baseFontSize": 18,
+  "theme": "moonstone",
+  "accentColor": "#d54d7d"
+}
