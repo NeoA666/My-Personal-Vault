@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日志.md",
+                "file": "语言/Rust/《Rust权威指南》/3_猜数游戏.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "日志"
+              "title": "3_猜数游戏"
             }
           }
         ]
@@ -171,6 +171,7 @@
   },
   "active": "322b9d6d3cf3c32a",
   "lastOpenFiles": [
+    "日志.md",
     "操作系统/《操作系统导论》/2_抽象：进程.md",
     "操作系统/《操作系统导论》/3_插叙：进程API.md",
     "操作系统/《操作系统导论》/4_机制：受限直接执行.md",
@@ -186,7 +187,6 @@
     "操作系统/问题百解/操作系统接口与系统调用的区别.md",
     "语言/Rust/《Rust权威指南》/3_认识所有权.md",
     "操作系统/Log.md",
-    "日志.md",
     "语言",
     "语言/Rust/问题百解/静态类型语言的特点与优缺点.md",
     "语言/Rust/问题百解",
