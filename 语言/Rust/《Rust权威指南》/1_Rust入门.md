@@ -13,3 +13,5 @@ cargo check    //快速检查代码是否可以通过编译
 
 cargo build --release    //以release方式进行项目构建，优化代码，可用于代码运行效率的基准测试
 ```
+
+☑️
