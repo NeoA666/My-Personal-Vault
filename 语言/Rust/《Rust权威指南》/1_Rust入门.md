@@ -5,10 +5,8 @@
 Rust 的安装非常现代化，它提供了一个专门的版本管理工具 `rustup`。
 
 - **安装指令 (Linux/macOS)**：
-    
     bash
-    
-    ```
+   ```
     curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
     ```
     
