@@ -41,7 +41,7 @@ Vim，clang与gcc工具
 
 GNU Core Utilities和Busy Box
 
-zsh配置，该fish终端吗
+zsh配置，改fish终端吗
 
 下载yjj实例代码
 
