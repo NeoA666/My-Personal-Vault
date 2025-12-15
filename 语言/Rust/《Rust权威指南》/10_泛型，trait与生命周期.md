@@ -110,6 +110,16 @@ where
 
 > **大师点拨**：Trait Bound 的意思是告诉编译器：“我不在乎 `T` 到底是啥，只要它能 `Display` 并且能 `Clone`，我就能处理它。”
 
+
+*如果函数直接写在Trait中，则默认所有符合该Trait的结构体能够实现该函数*
+
+- `impl Trait`（出现在参数位置）是泛型的语法糖：它允许传入“任何实现了该 trait 的类型”，不需要在函数签名里写具体的类型参数名称。
+- 在两个参数上都写 `impl Licensed`，每个参数可以是不同的具体类型。即上面的写法等价于下面这行（两个独立的泛型类型）：
+```Rust
+// 等价：两个参数可以是不同类型，只要都实现 Licensed
+fn compare_license_types<T: Licensed, U: Licensed>(software: T, software_two: U) -> bool { ... }
+  ```
+
 ---
 
 ## 3. 生命周期 (Lifetimes)：引用的有效期证明
